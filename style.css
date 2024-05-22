@@ -178,3 +178,36 @@ header{
 .logo{
   height: 46px;
 }
+
+
+
+/* Feautres Section  */
+
+.features-section{
+  padding: 80px var(--padding-inline-section) 0;
+  background-image: url(/Images/asset\ 29.svg);
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.features-header{
+  text-align: center;
+}
+
+.features-heading-text{
+  margin-bottom: 20px;
+}
+
+.features-area{
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 40px;
+  margin-top: 20px;
+}
+
+.features-card{
+  gap: 20px;
+  flex-direction: column;
+  max-width: 30%;
+  text-align: center;
+}
