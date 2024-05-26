@@ -245,7 +245,7 @@ header{
   position: relative;
   min-height: 300px;
   background: black;
-  background: linear-gradient(rgba(0,0,0,0.1) , rgba(0,0,0,0.9) , url(/Images/));
+  background: linear-gradient(rgb(0, 0, 0, 0.1), rgb(0, 0, 0, 0.9)), url(/Images/toronto.jpeg);
 }
 
 .card-text{
@@ -255,6 +255,3 @@ header{
   right: 20px;
   color: white;
 }
-
-
-01:04:08
